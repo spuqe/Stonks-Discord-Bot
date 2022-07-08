@@ -1,5 +1,5 @@
 # Stonks-Bot
-Capttrade's Discord bot.
+Capttrade's simple ass Discord bot for crypto servers.
 
 # How to use?
 Go to the bottom of the bot.py and put your bot token there.
